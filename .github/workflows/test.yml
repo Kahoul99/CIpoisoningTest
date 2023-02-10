@@ -5,4 +5,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "I'm from the external PR"
+      - run: echo "I'm from the external PR after protecting branch"
